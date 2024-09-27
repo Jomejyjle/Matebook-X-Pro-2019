@@ -1,4 +1,4 @@
-# macOS  on Huawei Matebook X Pro 2018
+# macOS  on Huawei Matebook X Pro 2019
 <p align="center">
 <img src="Wiki/Images/matebook-x-pro-sonoma.png" alt="Huawei macOS Sonoma" />
 </p>
